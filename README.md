@@ -12,6 +12,11 @@ I built Advance Focus Timer out of frustration. I could never find a focus timer
 
 I wanted something different: a tool that was incredibly clean and simple on the surface, but powered by an advanced data engine underneath. I wanted an application that didn't just count down time, but actually helped users analyze their performance, stay motivated during tough days, and maintain absolute control over their digital footprint.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Support my work - Buy me a Coffee**
+(https://buymeacoffee.com/anwarflex)
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## ✨ Core Features & Architecture
