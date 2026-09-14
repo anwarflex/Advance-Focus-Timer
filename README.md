@@ -18,6 +18,11 @@ I wanted something different: a tool that was incredibly clean and simple on the
 
 <img width="1919" height="1079" alt="Screenshot 2026-09-13 233616" src="https://github.com/user-attachments/assets/0342bccf-90e4-4287-a1fc-270b3008f626" />
 
+### Analytics in action - with resizable cards
+
+<img width="720" height="406" alt="0914 (1)(2)" src="https://github.com/user-attachments/assets/fb4eb1af-2276-4a4c-8c4f-da57f7bb0092" />
+
+
 ### 📊 Advanced Performance Analytics
 The app doesn't just track time; it analyzes behavior.
 * **Daily & Weekly Graphs:** See your exact performance metrics mapped out beautifully day by day.
@@ -41,7 +46,10 @@ To gamify productivity, I engineered a custom 3D globe using **D3.js Orthographi
 * **Data Trajectories:** Live focus sessions are visualized as glowing green data packets traveling across great-circle arcs between global coordinates. 
 * *Technical Highlight:* Built custom spherical math to handle horizon clipping, allowing data arcs to flawlessly wrap around the silhouette edges of the globe into empty space before realistically disappearing behind the earth's mass.
 
-<img width="720" height="406" alt="0914 (1)" src="https://github.com/user-attachments/assets/42c8f177-97b8-41c2-8090-f3dc4b2fdb3c" />
+### Live Global Ranking In Action
+
+<img width="720" height="406" alt="0914 (1)(1) (1)" src="https://github.com/user-attachments/assets/6f4d5c45-20d5-4e5a-a36b-747d268bb3d3" />
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
